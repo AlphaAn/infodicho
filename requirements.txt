@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+pybind11
+wheel
+setuptools
+jupyter
