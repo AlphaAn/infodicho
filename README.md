@@ -5,9 +5,9 @@
 
 SOMIM is an open-source program code that implements a Search for Optimal Measurements by using an Iterative Method. For a given set of statistical operators, SOMIM finds the POVMs that maximize the accessed information, and thus determines the accessible information and one or all of the POVMs that retrieve it. The maximization procedure is a steepest-ascent method that follows the gradient in the POVM space, and also uses conjugate gradients for speed-up.
 
-SOMIM was originally written in the early 2000s by K.L. Lee, J.W. Shang, W.K. Chua, S.Y. Looi and B.-G. Englert. More recently, we (K. D. A. Thai and M. Dall'Arno) replaced the grafical user interface of the originaly software with internfaces for GNU Octave and Python.
+SOMIM was originally written in the early 2000s by K. L. Lee, J. W. Shang, W. K. Chua, S. Y. Looi, and B.-G. Englert. More recently, we (K. D. A. Thai and M. Dall'Arno) replaced the graphical user interface of the original software with interfaces for GNU Octave and Python.
 
-We also provide some applications on the investigation and the empirical testing of a conjecture by A. Keil.
+We also provide several applications related to the investigation and empirical testing of a conjecture by A. Keil.
 
 ## 📂 Repository Structure
 
